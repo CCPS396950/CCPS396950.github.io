@@ -1,1 +1,35 @@
+p{
+color: pink;
+padding: 20px;
+}
+
+ul{
+color: blue;
+text-decoration: underline;
+}
+
+ol{
+color: blue;
+size: 10px;
+}
+
+h1{
+  color: #333;
+  text decoration: italic;
+}
+
+header{
+  color: black;
+  padding: 15px;
+}
+
+body{
+  color: dark blue;
+  size: 10px;
+}
+
+footer{
+  color: maroon;
+  text decoration; underline;
+}
 
